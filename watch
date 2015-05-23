@@ -1,0 +1,3 @@
+version=3
+opts=filenamemangle=s/.+\/v?(\d\S*)\.tar\.gz/photo-booth-$1\.tar\.gz/ \
+  https://github.com/adamwight/photo-booth/tags .*/v?(\d\S*)\.tar\.gz
