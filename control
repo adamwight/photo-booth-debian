@@ -1,7 +1,7 @@
 Source: photo-booth
-Maintainer: Adam Roses Wight <adamw@ludd.net>
 Section: graphics
 Priority: optional
+Maintainer: Adam Roses Wight <adamw@ludd.net>
 Build-Depends: debhelper (>= 9),
  cmake,
  gettext,
@@ -10,8 +10,8 @@ Build-Depends: debhelper (>= 9),
  libopencv-imgproc-dev
 Standards-Version: 3.9.6.0
 Homepage: https://github.com/adamwight/photo-booth
-Vcs-Browser: https://github.com/adamwight/photo-booth
-Vcs-Git: git://github.com/adamwight/photo-booth.git
+Vcs-Git: git://github.com/adamwight/photo-booth-debian.git
+Vcs-Browser: https://github.com/adamwight/photo-booth-debian
 
 Package: photo-booth
 Architecture: any
