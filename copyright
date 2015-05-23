@@ -4,8 +4,7 @@ Source: https://github.com/adamwight/photo-booth
 
 Files: *.cc *.hpp *.md *.po *.pot *.txt *.yaml Makefile debian/* .gitignore
 Copyright: 2015, Adam Roses Wight <adamw@ludd.net>
-License: GPL-3.0+
- /usr/share/common-licenses/GPL-3
+License: CC-BY-NC-SA
 
 Files: sounds/104291__ryansnook__klaxon3.flac
 Copyright: 2010, ryansnook at freesound
