@@ -2,7 +2,7 @@ Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: photo-booth
 Source: https://github.com/adamwight/photo-booth
 
-Files: *.cc *.hpp *.md *.po *.pot *.txt *.yaml *.1
+Files: *.cc *.hpp *.md *.po *.pot *.txt *.yaml *.1 debian
  Makefile .gitignore gnome-menu
 Copyright: 2015, Adam Roses Wight <adamw@ludd.net>
 License: GPL-3.0
