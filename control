@@ -18,5 +18,9 @@ Depends: ${shlibs:Depends},
  ${misc:Depends},
  sox
 Description: Self-serve photo booth software
+ Photo booth triggered by motion detection, meant for amateur use in e.g. a
+ party setting.  This application can be configured by an administrator,
+ but doesn't require keyboard or mouse interaction during use.
+ .
  Flail your arms until the motion detector is activated, then beam your party
  into the future!
