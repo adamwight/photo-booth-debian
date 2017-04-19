@@ -1,5 +1,5 @@
-photo-booth (1.0.1~rc1-1) unstable; urgency=low
+photo-booth (1.0.1~rc2-1) unstable; urgency=low
 
   * Initial release. (Closes: #783432)
 
- -- Adam Roses Wight <adamw@ludd.net>  Wed, 27 May 2015 23:10:04 -0700
+ -- Adam Roses Wight <adamw@ludd.net>  Wed, 19 Apr 2017 02:27:42 -0700

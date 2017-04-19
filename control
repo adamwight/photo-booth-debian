@@ -7,7 +7,7 @@ Build-Depends: debhelper (>= 9),
  gettext,
  libcairo2-dev,
  libopencv-dev
-Standards-Version: 3.9.6.0
+Standards-Version: 3.9.8
 Homepage: https://github.com/adamwight/photo-booth
 Vcs-Git: https://github.com/adamwight/photo-booth-debian.git
 Vcs-Browser: https://github.com/adamwight/photo-booth-debian
